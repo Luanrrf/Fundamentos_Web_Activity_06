@@ -9,12 +9,12 @@ if (i > 2){
         num2 = num1;
         num1 = result;
     }
-    window.alert("Seu resultado é " + result);
+    window.alert("Seu resultado é: " + result);
 }
 else{
     if ((i > 0)&&(i<2)){
         result = 1;
-        window.alert("Seu resultado é " + result);
+        window.alert("Seu resultado é: " + result);
     }
     else
     window.alert("Não existe sequência Fibonacci para números menores que 1");

@@ -6,4 +6,4 @@ for(let i = 1; i <= 1000; i++){
     }
 }
 
-window.alert(result);
+window.alert("A soma de todos os pares positivos até 1000 é: " + result);
